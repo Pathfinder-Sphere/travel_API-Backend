@@ -1,0 +1,631 @@
+{'pagination': {'limit': 100, 'offset': 0, 'count': 100, 'total': 372461
+    }, 'data': [
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Auckland International', 'timezone': 'Pacific/Auckland', 'iata': 'AKL', 'icao': 'NZAA', 'terminal': 'I', 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 55: 00+00: 00', 'estimated': '2024-12-09T00: 55: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Singapore Changi', 'timezone': 'Asia/Singapore', 'iata': 'SIN', 'icao': 'WSSS', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T06: 30: 00+00: 00', 'estimated': '2024-12-09T06: 30: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Lufthansa', 'iata': 'LH', 'icao': 'DLH'
+            }, 'flight': {'number': '9753', 'iata': 'LH9753', 'icao': 'DLH9753', 'codeshared': {'airline_name': 'singapore airlines', 'airline_iata': 'sq', 'airline_icao': 'sia', 'flight_number': '282', 'flight_iata': 'sq282', 'flight_icao': 'sia282'
+                }
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Auckland International', 'timezone': 'Pacific/Auckland', 'iata': 'AKL', 'icao': 'NZAA', 'terminal': 'I', 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 55: 00+00: 00', 'estimated': '2024-12-09T00: 55: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Singapore Changi', 'timezone': 'Asia/Singapore', 'iata': 'SIN', 'icao': 'WSSS', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T06: 30: 00+00: 00', 'estimated': '2024-12-09T06: 30: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Air India', 'iata': 'AI', 'icao': 'AIC'
+            }, 'flight': {'number': '8105', 'iata': 'AI8105', 'icao': 'AIC8105', 'codeshared': {'airline_name': 'singapore airlines', 'airline_iata': 'sq', 'airline_icao': 'sia', 'flight_number': '282', 'flight_iata': 'sq282', 'flight_icao': 'sia282'
+                }
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Auckland International', 'timezone': 'Pacific/Auckland', 'iata': 'AKL', 'icao': 'NZAA', 'terminal': 'I', 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 55: 00+00: 00', 'estimated': '2024-12-09T00: 55: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Singapore Changi', 'timezone': 'Asia/Singapore', 'iata': 'SIN', 'icao': 'WSSS', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T06: 30: 00+00: 00', 'estimated': '2024-12-09T06: 30: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Air New Zealand', 'iata': 'NZ', 'icao': 'ANZ'
+            }, 'flight': {'number': '3282', 'iata': 'NZ3282', 'icao': 'ANZ3282', 'codeshared': {'airline_name': 'singapore airlines', 'airline_iata': 'sq', 'airline_icao': 'sia', 'flight_number': '282', 'flight_iata': 'sq282', 'flight_icao': 'sia282'
+                }
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Amata Kabua International', 'timezone': 'Pacific/Majuro', 'iata': 'MAJ', 'icao': 'PKMJ', 'terminal': None, 'gate': '1', 'delay': 72, 'scheduled': '2024-12-09T00: 15: 00+00: 00', 'estimated': '2024-12-09T00: 15: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Guam International', 'timezone': 'Pacific/Guam', 'iata': 'GUM', 'icao': 'PGUM', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T02: 20: 00+00: 00', 'estimated': '2024-12-09T02: 20: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'United Airlines', 'iata': 'UA', 'icao': 'UAL'
+            }, 'flight': {'number': '3019', 'iata': 'UA3019', 'icao': 'UAL3019', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Melbourne - Tullamarine Airport', 'timezone': 'Australia/Melbourne', 'iata': 'MEL', 'icao': 'YMML', 'terminal': '2', 'gate': '6', 'delay': None, 'scheduled': '2024-12-09T00: 30: 00+00: 00', 'estimated': '2024-12-09T00: 30: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Suvarnabhumi International', 'timezone': 'Asia/Bangkok', 'iata': 'BKK', 'icao': 'VTBS', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T05: 40: 00+00: 00', 'estimated': '2024-12-09T05: 40: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Thai Airways International', 'iata': 'TG', 'icao': 'THA'
+            }, 'flight': {'number': '462', 'iata': 'TG462', 'icao': 'THA462', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Melbourne - Tullamarine Airport', 'timezone': 'Australia/Melbourne', 'iata': 'MEL', 'icao': 'YMML', 'terminal': '2', 'gate': '12', 'delay': None, 'scheduled': '2024-12-09T00: 30: 00+00: 00', 'estimated': '2024-12-09T00: 30: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Kuala Lumpur International Airport (klia)', 'timezone': 'Asia/Kuala_Lumpur', 'iata': 'KUL', 'icao': 'WMKK', 'terminal': '1', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T05: 45: 00+00: 00', 'estimated': '2024-12-09T05: 45: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Malaysia Airlines', 'iata': 'MH', 'icao': 'MAS'
+            }, 'flight': {'number': '128', 'iata': 'MH128', 'icao': 'MAS128', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Melbourne - Tullamarine Airport', 'timezone': 'Australia/Melbourne', 'iata': 'MEL', 'icao': 'YMML', 'terminal': '2', 'gate': 'R1-9', 'delay': None, 'scheduled': '2024-12-09T00: 35: 00+00: 00', 'estimated': '2024-12-09T00: 35: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Taiwan Taoyuan International (Chiang Kai Shek International)', 'timezone': 'Asia/Taipei', 'iata': 'TPE', 'icao': 'RCTP', 'terminal': '2', 'gate': 'D8', 'baggage': '1', 'delay': None, 'scheduled': '2024-12-09T06: 45: 00+00: 00', 'estimated': '2024-12-09T06: 45: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'China Airlines', 'iata': 'CI', 'icao': 'CAL'
+            }, 'flight': {'number': '58', 'iata': 'CI58', 'icao': 'CAL58', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Melbourne - Tullamarine Airport', 'timezone': 'Australia/Melbourne', 'iata': 'MEL', 'icao': 'YMML', 'terminal': '2', 'gate': '20', 'delay': None, 'scheduled': '2024-12-09T00: 35: 00+00: 00', 'estimated': '2024-12-09T00: 35: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Singapore Changi', 'timezone': 'Asia/Singapore', 'iata': 'SIN', 'icao': 'WSSS', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T05: 15: 00+00: 00', 'estimated': '2024-12-09T05: 15: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Singapore Airlines', 'iata': 'SQ', 'icao': 'SIA'
+            }, 'flight': {'number': '218', 'iata': 'SQ218', 'icao': 'SIA218', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Melbourne - Tullamarine Airport', 'timezone': 'Australia/Melbourne', 'iata': 'MEL', 'icao': 'YMML', 'terminal': '2', 'gate': '14', 'delay': None, 'scheduled': '2024-12-09T00: 45: 00+00: 00', 'estimated': '2024-12-09T00: 45: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Hong Kong International', 'timezone': 'Asia/Hong_Kong', 'iata': 'HKG', 'icao': 'VHHH', 'terminal': '1', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T06: 50: 00+00: 00', 'estimated': '2024-12-09T06: 50: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Cathay Pacific', 'iata': 'CX', 'icao': 'CPA'
+            }, 'flight': {'number': '178', 'iata': 'CX178', 'icao': 'CPA178', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Melbourne - Tullamarine Airport', 'timezone': 'Australia/Melbourne', 'iata': 'MEL', 'icao': 'YMML', 'terminal': '2', 'gate': '8', 'delay': None, 'scheduled': '2024-12-09T00: 50: 00+00: 00', 'estimated': '2024-12-09T00: 50: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Noibai International', 'timezone': 'Asia/Ho_Chi_Minh', 'iata': 'HAN', 'icao': 'VVNB', 'terminal': '2', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T06: 25: 00+00: 00', 'estimated': '2024-12-09T06: 25: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Vietnam Airlines', 'iata': 'VN', 'icao': 'HVN'
+            }, 'flight': {'number': '778', 'iata': 'VN778', 'icao': 'HVN778', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Kansai International', 'timezone': 'Asia/Tokyo', 'iata': 'KIX', 'icao': 'RJBB', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 25: 00+00: 00', 'estimated': '2024-12-09T00: 25: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Shanghai Pudong International', 'timezone': 'Asia/Shanghai', 'iata': 'PVG', 'icao': 'ZSPD', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T02: 15: 00+00: 00', 'estimated': '2024-12-09T02: 15: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'YTO Cargo Airlines', 'iata': 'YG', 'icao': 'HYT'
+            }, 'flight': {'number': '9136', 'iata': 'YG9136', 'icao': 'HYT9136', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Seoul (Incheon)', 'timezone': 'Asia/Seoul', 'iata': 'ICN', 'icao': 'RKSI', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Guangzhou Baiyun International', 'timezone': 'Asia/Shanghai', 'iata': 'CAN', 'icao': 'ZGGG', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T03: 10: 00+00: 00', 'estimated': '2024-12-09T03: 10: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Korean Air', 'iata': 'KE', 'icao': 'KAL'
+            }, 'flight': {'number': '319', 'iata': 'KE319', 'icao': 'KAL319', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Kansai International', 'timezone': 'Asia/Tokyo', 'iata': 'KIX', 'icao': 'RJBB', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 35: 00+00: 00', 'estimated': '2024-12-09T00: 35: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Shanghai Pudong International', 'timezone': 'Asia/Shanghai', 'iata': 'PVG', 'icao': 'ZSPD', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T01: 35: 00+00: 00', 'estimated': '2024-12-09T01: 35: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'China Cargo', 'iata': 'CK', 'icao': 'CKK'
+            }, 'flight': {'number': '248', 'iata': 'CK248', 'icao': 'CKK248', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Kansai International', 'timezone': 'Asia/Tokyo', 'iata': 'KIX', 'icao': 'RJBB', 'terminal': '1', 'gate': '31', 'delay': None, 'scheduled': '2024-12-09T00: 45: 00+00: 00', 'estimated': '2024-12-09T00: 45: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Suvarnabhumi International', 'timezone': 'Asia/Bangkok', 'iata': 'BKK', 'icao': 'VTBS', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T05: 00: 00+00: 00', 'estimated': '2024-12-09T05: 00: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'SriLankan Airlines', 'iata': 'UL', 'icao': 'ALK'
+            }, 'flight': {'number': '3345', 'iata': 'UL3345', 'icao': 'ALK3345', 'codeshared': {'airline_name': 'jal', 'airline_iata': 'jl', 'airline_icao': 'jal', 'flight_number': '727', 'flight_iata': 'jl727', 'flight_icao': 'jal727'
+                }
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Kansai International', 'timezone': 'Asia/Tokyo', 'iata': 'KIX', 'icao': 'RJBB', 'terminal': '1', 'gate': '31', 'delay': None, 'scheduled': '2024-12-09T00: 45: 00+00: 00', 'estimated': '2024-12-09T00: 45: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Suvarnabhumi International', 'timezone': 'Asia/Bangkok', 'iata': 'BKK', 'icao': 'VTBS', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T05: 00: 00+00: 00', 'estimated': '2024-12-09T05: 00: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Bangkok Airways', 'iata': 'PG', 'icao': 'BKP'
+            }, 'flight': {'number': '4170', 'iata': 'PG4170', 'icao': 'BKP4170', 'codeshared': {'airline_name': 'jal', 'airline_iata': 'jl', 'airline_icao': 'jal', 'flight_number': '727', 'flight_iata': 'jl727', 'flight_icao': 'jal727'
+                }
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Kansai International', 'timezone': 'Asia/Tokyo', 'iata': 'KIX', 'icao': 'RJBB', 'terminal': '1', 'gate': '31', 'delay': None, 'scheduled': '2024-12-09T00: 45: 00+00: 00', 'estimated': '2024-12-09T00: 45: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Suvarnabhumi International', 'timezone': 'Asia/Bangkok', 'iata': 'BKK', 'icao': 'VTBS', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T05: 00: 00+00: 00', 'estimated': '2024-12-09T05: 00: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'AlphaSky', 'iata': 'AS', 'icao': 'JAG'
+            }, 'flight': {'number': '7341', 'iata': 'AS7341', 'icao': 'JAG7341', 'codeshared': {'airline_name': 'jal', 'airline_iata': 'jl', 'airline_icao': 'jal', 'flight_number': '727', 'flight_iata': 'jl727', 'flight_icao': 'jal727'
+                }
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Kansai International', 'timezone': 'Asia/Tokyo', 'iata': 'KIX', 'icao': 'RJBB', 'terminal': '1', 'gate': '31', 'delay': None, 'scheduled': '2024-12-09T00: 45: 00+00: 00', 'estimated': '2024-12-09T00: 45: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Suvarnabhumi International', 'timezone': 'Asia/Bangkok', 'iata': 'BKK', 'icao': 'VTBS', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T05: 00: 00+00: 00', 'estimated': '2024-12-09T05: 00: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Hawaiian Airlines', 'iata': 'HA', 'icao': 'HAL'
+            }, 'flight': {'number': '5378', 'iata': 'HA5378', 'icao': 'HAL5378', 'codeshared': {'airline_name': 'jal', 'airline_iata': 'jl', 'airline_icao': 'jal', 'flight_number': '727', 'flight_iata': 'jl727', 'flight_icao': 'jal727'
+                }
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Kansai International', 'timezone': 'Asia/Tokyo', 'iata': 'KIX', 'icao': 'RJBB', 'terminal': '1', 'gate': '31', 'delay': None, 'scheduled': '2024-12-09T00: 45: 00+00: 00', 'estimated': '2024-12-09T00: 45: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Suvarnabhumi International', 'timezone': 'Asia/Bangkok', 'iata': 'BKK', 'icao': 'VTBS', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T05: 00: 00+00: 00', 'estimated': '2024-12-09T05: 00: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'JAL', 'iata': 'JL', 'icao': 'JAL'
+            }, 'flight': {'number': '727', 'iata': 'JL727', 'icao': 'JAL727', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Brisbane International', 'timezone': 'Australia/Brisbane', 'iata': 'BNE', 'icao': 'YBBN', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T01: 30: 00+00: 00', 'estimated': '2024-12-09T01: 30: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Rockhampton', 'timezone': 'Australia/Brisbane', 'iata': 'ROK', 'icao': 'YBRK', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T02: 37: 00+00: 00', 'estimated': '2024-12-09T02: 37: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'empty', 'iata': None, 'icao': None
+            }, 'flight': {'number': None, 'iata': None, 'icao': None, 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Brisbane International', 'timezone': 'Australia/Brisbane', 'iata': 'BNE', 'icao': 'YBBN', 'terminal': 'I', 'gate': None, 'delay': None, 'scheduled': '2024-12-09T01: 55: 00+00: 00', 'estimated': '2024-12-09T01: 55: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Dubai', 'timezone': 'Asia/Dubai', 'iata': 'DXB', 'icao': 'OMDB', 'terminal': '3', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T10: 30: 00+00: 00', 'estimated': '2024-12-09T10: 30: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Emirates', 'iata': 'EK', 'icao': 'UAE'
+            }, 'flight': {'number': '431', 'iata': 'EK431', 'icao': 'UAE431', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Jinjiang', 'timezone': 'Asia/Shanghai', 'iata': 'JJN', 'icao': 'ZSQZ', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Hangzhou', 'timezone': 'Asia/Shanghai', 'iata': 'HGH', 'icao': 'ZSHC', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T01: 25: 00+00: 00', 'estimated': '2024-12-09T01: 25: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'SF Airlines', 'iata': 'O3', 'icao': 'CSS'
+            }, 'flight': {'number': '7067', 'iata': 'O37067', 'icao': 'CSS7067', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Hangzhou', 'timezone': 'Asia/Shanghai', 'iata': 'HGH', 'icao': 'ZSHC', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Ninoy Aquino International', 'timezone': 'Asia/Manila', 'iata': 'MNL', 'icao': 'RPLL', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T03: 30: 00+00: 00', 'estimated': '2024-12-09T03: 30: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'YTO Cargo Airlines', 'iata': 'YG', 'icao': 'HYT'
+            }, 'flight': {'number': '9079', 'iata': 'YG9079', 'icao': 'HYT9079', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Hangzhou', 'timezone': 'Asia/Shanghai', 'iata': 'HGH', 'icao': 'ZSHC', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Urumqi', 'timezone': 'Asia/Shanghai', 'iata': 'URC', 'icao': 'ZWWW', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T04: 50: 00+00: 00', 'estimated': '2024-12-09T04: 50: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'YTO Cargo Airlines', 'iata': 'YG', 'icao': 'HYT'
+            }, 'flight': {'number': '9009', 'iata': 'YG9009', 'icao': 'HYT9009', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Lishe International Airport', 'timezone': 'Asia/Shanghai', 'iata': 'NGB', 'icao': 'ZSNB', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Noibai International', 'timezone': 'Asia/Ho_Chi_Minh', 'iata': 'HAN', 'icao': 'VVNB', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T02: 05: 00+00: 00', 'estimated': '2024-12-09T02: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'YTO Cargo Airlines', 'iata': 'YG', 'icao': 'HYT'
+            }, 'flight': {'number': '9015', 'iata': 'YG9015', 'icao': 'HYT9015', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Lishe International Airport', 'timezone': 'Asia/Shanghai', 'iata': 'NGB', 'icao': 'ZSNB', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Seoul (Incheon)', 'timezone': 'Asia/Seoul', 'iata': 'ICN', 'icao': 'RKSI', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T03: 15: 00+00: 00', 'estimated': '2024-12-09T03: 15: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'YTO Cargo Airlines', 'iata': 'YG', 'icao': 'HYT'
+            }, 'flight': {'number': '9021', 'iata': 'YG9021', 'icao': 'HYT9021', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Zhengzhou', 'timezone': 'Asia/Shanghai', 'iata': 'CGO', 'icao': 'ZHCC', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Shenzhen', 'timezone': 'Asia/Shanghai', 'iata': 'SZX', 'icao': 'ZGSZ', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T02: 45: 00+00: 00', 'estimated': '2024-12-09T02: 45: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'SF Airlines', 'iata': 'O3', 'icao': 'CSS'
+            }, 'flight': {'number': '6808', 'iata': 'O36808', 'icao': 'CSS6808', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Xiamen', 'timezone': 'Asia/Shanghai', 'iata': 'XMN', 'icao': 'ZSAM', 'terminal': '3', 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Charles De Gaulle', 'timezone': 'Europe/Paris', 'iata': 'CDG', 'icao': 'LFPG', 'terminal': '2E', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T06: 10: 00+00: 00', 'estimated': '2024-12-09T06: 10: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Xiamen Airlines', 'iata': 'MF', 'icao': 'CXA'
+            }, 'flight': {'number': '825', 'iata': 'MF825', 'icao': 'CXA825', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Xiamen', 'timezone': 'Asia/Shanghai', 'iata': 'XMN', 'icao': 'ZSAM', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Fuzhou', 'timezone': 'Asia/Shanghai', 'iata': 'FOC', 'icao': 'ZSFZ', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T01: 00: 00+00: 00', 'estimated': '2024-12-09T01: 00: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'China Postal Airlines', 'iata': 'CF', 'icao': 'CYZ'
+            }, 'flight': {'number': '9004', 'iata': 'CF9004', 'icao': 'CYZ9004', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Shenzhen', 'timezone': 'Asia/Shanghai', 'iata': 'SZX', 'icao': 'ZGSZ', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Beijing Capital International', 'timezone': 'Asia/Shanghai', 'iata': 'PEK', 'icao': 'ZBAA', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T03: 15: 00+00: 00', 'estimated': '2024-12-09T03: 15: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'SF Airlines', 'iata': 'O3', 'icao': 'CSS'
+            }, 'flight': {'number': '6811', 'iata': 'O36811', 'icao': 'CSS6811', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Shenzhen', 'timezone': 'Asia/Shanghai', 'iata': 'SZX', 'icao': 'ZGSZ', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Beijing Capital International', 'timezone': 'Asia/Shanghai', 'iata': 'PEK', 'icao': 'ZBAA', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T03: 20: 00+00: 00', 'estimated': '2024-12-09T03: 20: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'SF Airlines', 'iata': 'O3', 'icao': 'CSS'
+            }, 'flight': {'number': '6813', 'iata': 'O36813', 'icao': 'CSS6813', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Weihai', 'timezone': 'Asia/Shanghai', 'iata': 'WEH', 'icao': 'ZSWH', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Jinjiang', 'timezone': 'Asia/Shanghai', 'iata': 'JJN', 'icao': 'ZSQZ', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T02: 05: 00+00: 00', 'estimated': '2024-12-09T02: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'SF Airlines', 'iata': 'O3', 'icao': 'CSS'
+            }, 'flight': {'number': '7083', 'iata': 'O37083', 'icao': 'CSS7083', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Weihai', 'timezone': 'Asia/Shanghai', 'iata': 'WEH', 'icao': 'ZSWH', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Kansai International', 'timezone': 'Asia/Tokyo', 'iata': 'KIX', 'icao': 'RJBB', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T03: 55: 00+00: 00', 'estimated': '2024-12-09T03: 55: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Tianjin Air Cargo', 'iata': 'HT', 'icao': 'CTJ'
+            }, 'flight': {'number': '3811', 'iata': 'HT3811', 'icao': 'CTJ3811', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Weifang', 'timezone': 'Asia/Shanghai', 'iata': 'WEF', 'icao': 'ZSWF', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Shenzhen', 'timezone': 'Asia/Shanghai', 'iata': 'SZX', 'icao': 'ZGSZ', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T02: 50: 00+00: 00', 'estimated': '2024-12-09T02: 50: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Central Airlines', 'iata': 'I9', 'icao': 'HLF'
+            }, 'flight': {'number': '8846', 'iata': 'I98846', 'icao': 'HLF8846', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Fagali I', 'timezone': 'Pacific/Apia', 'iata': 'FGI', 'icao': 'NSAP', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 00: 00+00: 00', 'estimated': '2024-12-09T00: 00: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Pago Pago International Airport', 'timezone': 'Pacific/Pago_Pago', 'iata': 'PPG', 'icao': 'NSTU', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-08T12: 35: 00+00: 00', 'estimated': '2024-12-08T12: 35: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Samoa Airways', 'iata': 'OL', 'icao': 'PAO'
+            }, 'flight': {'number': '226', 'iata': 'OL226', 'icao': 'PAO226', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Yantai', 'timezone': 'Asia/Shanghai', 'iata': 'YNT', 'icao': 'ZSYT', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Kansai International', 'timezone': 'Asia/Tokyo', 'iata': 'KIX', 'icao': 'RJBB', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T03: 35: 00+00: 00', 'estimated': '2024-12-09T03: 35: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Central Airlines', 'iata': 'I9', 'icao': 'HLF'
+            }, 'flight': {'number': '8871', 'iata': 'I98871', 'icao': 'HLF8871', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Yantai', 'timezone': 'Asia/Shanghai', 'iata': 'YNT', 'icao': 'ZSYT', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Seoul (Incheon)', 'timezone': 'Asia/Seoul', 'iata': 'ICN', 'icao': 'RKSI', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T02: 30: 00+00: 00', 'estimated': '2024-12-09T02: 30: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Longhao Airlines', 'iata': 'GI', 'icao': 'LHA'
+            }, 'flight': {'number': '4237', 'iata': 'GI4237', 'icao': 'LHA4237', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Qingdao', 'timezone': 'Asia/Shanghai', 'iata': 'TAO', 'icao': 'ZSQD', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Hangzhou', 'timezone': 'Asia/Shanghai', 'iata': 'HGH', 'icao': 'ZSHC', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T01: 30: 00+00: 00', 'estimated': '2024-12-09T01: 30: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'SF Airlines', 'iata': 'O3', 'icao': 'CSS'
+            }, 'flight': {'number': '7015', 'iata': 'O37015', 'icao': 'CSS7015', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Auckland International', 'timezone': 'Pacific/Auckland', 'iata': 'AKL', 'icao': 'NZAA', 'terminal': 'I', 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 55: 00+00: 00', 'estimated': '2024-12-09T00: 55: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Singapore Changi', 'timezone': 'Asia/Singapore', 'iata': 'SIN', 'icao': 'WSSS', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T06: 30: 00+00: 00', 'estimated': '2024-12-09T06: 30: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Singapore Airlines', 'iata': 'SQ', 'icao': 'SIA'
+            }, 'flight': {'number': '282', 'iata': 'SQ282', 'icao': 'SIA282', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Haneda Airport', 'timezone': 'Asia/Tokyo', 'iata': 'HND', 'icao': 'RJTT', 'terminal': '3', 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 10: 00+00: 00', 'estimated': '2024-12-09T00: 10: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Suvarnabhumi International', 'timezone': 'Asia/Bangkok', 'iata': 'BKK', 'icao': 'VTBS', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T05: 05: 00+00: 00', 'estimated': '2024-12-09T05: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'JAL', 'iata': 'JL', 'icao': 'JAL'
+            }, 'flight': {'number': '33', 'iata': 'JL33', 'icao': 'JAL33', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Haneda Airport', 'timezone': 'Asia/Tokyo', 'iata': 'HND', 'icao': 'RJTT', 'terminal': '3', 'gate': None, 'delay': None, 'scheduled': '2024-12-09T01: 00: 00+00: 00', 'estimated': '2024-12-09T01: 00: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Heathrow', 'timezone': 'Europe/London', 'iata': 'LHR', 'icao': 'EGLL', 'terminal': '3', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T06: 25: 00+00: 00', 'estimated': '2024-12-09T06: 25: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'JAL', 'iata': 'JL', 'icao': 'JAL'
+            }, 'flight': {'number': '41', 'iata': 'JL41', 'icao': 'JAL41', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Haneda Airport', 'timezone': 'Asia/Tokyo', 'iata': 'HND', 'icao': 'RJTT', 'terminal': '3', 'gate': '110', 'delay': None, 'scheduled': '2024-12-09T00: 50: 00+00: 00', 'estimated': '2024-12-09T00: 50: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Los Angeles International', 'timezone': 'America/Los_Angeles', 'iata': 'LAX', 'icao': 'KLAX', 'terminal': 'TBIT', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-08T17: 50: 00+00: 00', 'estimated': '2024-12-08T17: 50: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'ANA', 'iata': 'NH', 'icao': 'ANA'
+            }, 'flight': {'number': '106', 'iata': 'NH106', 'icao': 'ANA106', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Haneda Airport', 'timezone': 'Asia/Tokyo', 'iata': 'HND', 'icao': 'RJTT', 'terminal': '2', 'gate': '69', 'delay': None, 'scheduled': '2024-12-09T00: 25: 00+00: 00', 'estimated': '2024-12-09T00: 25: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Singapore Changi', 'timezone': 'Asia/Singapore', 'iata': 'SIN', 'icao': 'WSSS', 'terminal': '2', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T06: 55: 00+00: 00', 'estimated': '2024-12-09T06: 55: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'ANA', 'iata': 'NH', 'icao': 'ANA'
+            }, 'flight': {'number': '843', 'iata': 'NH843', 'icao': 'ANA843', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Haneda Airport', 'timezone': 'Asia/Tokyo', 'iata': 'HND', 'icao': 'RJTT', 'terminal': '3', 'gate': '142', 'delay': None, 'scheduled': '2024-12-09T00: 20: 00+00: 00', 'estimated': '2024-12-09T00: 20: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Suvarnabhumi International', 'timezone': 'Asia/Bangkok', 'iata': 'BKK', 'icao': 'VTBS', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T05: 25: 00+00: 00', 'estimated': '2024-12-09T05: 25: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Thai Airways International', 'iata': 'TG', 'icao': 'THA'
+            }, 'flight': {'number': '661', 'iata': 'TG661', 'icao': 'THA661', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Haneda Airport', 'timezone': 'Asia/Tokyo', 'iata': 'HND', 'icao': 'RJTT', 'terminal': '3', 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 10: 00+00: 00', 'estimated': '2024-12-09T00: 10: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Singapore Changi', 'timezone': 'Asia/Singapore', 'iata': 'SIN', 'icao': 'WSSS', 'terminal': '1', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T06: 40: 00+00: 00', 'estimated': '2024-12-09T06: 40: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'JAL', 'iata': 'JL', 'icao': 'JAL'
+            }, 'flight': {'number': '35', 'iata': 'JL35', 'icao': 'JAL35', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Pohnpei', 'timezone': 'Pacific/Pohnpei', 'iata': 'PNI', 'icao': 'PTPN', 'terminal': None, 'gate': None, 'delay': 65, 'scheduled': '2024-12-09T00: 45: 00+00: 00', 'estimated': '2024-12-09T00: 45: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Truk', 'timezone': 'Pacific/Chuuk', 'iata': 'TKK', 'icao': 'PTKK', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T01: 10: 00+00: 00', 'estimated': '2024-12-09T01: 10: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'United Airlines', 'iata': 'UA', 'icao': 'UAL'
+            }, 'flight': {'number': '176', 'iata': 'UA176', 'icao': 'UAL176', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Melbourne - Tullamarine Airport', 'timezone': 'Australia/Melbourne', 'iata': 'MEL', 'icao': 'YMML', 'terminal': '2', 'gate': None, 'delay': None, 'scheduled': '2024-12-09T01: 30: 00+00: 00', 'estimated': '2024-12-09T01: 30: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Tan Son Nhat International', 'timezone': 'Asia/Ho_Chi_Minh', 'iata': 'SGN', 'icao': 'VVTS', 'terminal': '2', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T05: 55: 00+00: 00', 'estimated': '2024-12-09T05: 55: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'VietJet Air', 'iata': 'VJ', 'icao': 'VJC'
+            }, 'flight': {'number': '82', 'iata': 'VJ82', 'icao': 'VJC82', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Nanjing Lukou International Airport', 'timezone': 'Asia/Shanghai', 'iata': 'NKG', 'icao': 'ZSNJ', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Ted Stevens Anchorage International Airport', 'timezone': 'America/Anchorage', 'iata': 'ANC', 'icao': 'PANC', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-08T17: 00: 00+00: 00', 'estimated': '2024-12-08T17: 00: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Suparna Airlines', 'iata': 'Y8', 'icao': 'YZR'
+            }, 'flight': {'number': '7451', 'iata': 'Y87451', 'icao': 'YZR7451', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Haikou', 'timezone': 'Asia/Shanghai', 'iata': 'HAK', 'icao': 'ZJHK', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Nanjing Lukou International Airport', 'timezone': 'Asia/Shanghai', 'iata': 'NKG', 'icao': 'ZSNJ', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T02: 45: 00+00: 00', 'estimated': '2024-12-09T02: 45: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'China Postal Airlines', 'iata': 'CF', 'icao': 'CYZ'
+            }, 'flight': {'number': '9051', 'iata': 'CF9051', 'icao': 'CYZ9051', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Wuxi', 'timezone': 'Asia/Shanghai', 'iata': 'WUX', 'icao': 'ZSWX', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Noibai International', 'timezone': 'Asia/Ho_Chi_Minh', 'iata': 'HAN', 'icao': 'VVNB', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T03: 05: 00+00: 00', 'estimated': '2024-12-09T03: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'YTO Cargo Airlines', 'iata': 'YG', 'icao': 'HYT'
+            }, 'flight': {'number': '9185', 'iata': 'YG9185', 'icao': 'HYT9185', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Darwin', 'timezone': 'Australia/Darwin', 'iata': 'DRW', 'icao': 'YPDN', 'terminal': None, 'gate': '5', 'delay': None, 'scheduled': '2024-12-09T00: 30: 00+00: 00', 'estimated': '2024-12-09T00: 30: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Sydney Kingsford Smith Airport', 'timezone': 'Australia/Sydney', 'iata': 'SYD', 'icao': 'YSSY', 'terminal': '3', 'gate': 'T3G', 'baggage': 'QFR', 'delay': None, 'scheduled': '2024-12-09T06: 25: 00+00: 00', 'estimated': '2024-12-09T06: 25: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Qantas', 'iata': 'QF', 'icao': 'QFA'
+            }, 'flight': {'number': '843', 'iata': 'QF843', 'icao': 'QFA843', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Darwin', 'timezone': 'Australia/Darwin', 'iata': 'DRW', 'icao': 'YPDN', 'terminal': None, 'gate': '5', 'delay': None, 'scheduled': '2024-12-09T00: 30: 00+00: 00', 'estimated': '2024-12-09T00: 30: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Sydney Kingsford Smith Airport', 'timezone': 'Australia/Sydney', 'iata': 'SYD', 'icao': 'YSSY', 'terminal': '3', 'gate': 'T3G', 'baggage': 'QFR', 'delay': None, 'scheduled': '2024-12-09T06: 25: 00+00: 00', 'estimated': '2024-12-09T06: 25: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'American Airlines', 'iata': 'AA', 'icao': 'AAL'
+            }, 'flight': {'number': '7300', 'iata': 'AA7300', 'icao': 'AAL7300', 'codeshared': {'airline_name': 'qantas', 'airline_iata': 'qf', 'airline_icao': 'qfa', 'flight_number': '843', 'flight_iata': 'qf843', 'flight_icao': 'qfa843'
+                }
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Darwin', 'timezone': 'Australia/Darwin', 'iata': 'DRW', 'icao': 'YPDN', 'terminal': None, 'gate': '5', 'delay': None, 'scheduled': '2024-12-09T00: 30: 00+00: 00', 'estimated': '2024-12-09T00: 30: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Sydney Kingsford Smith Airport', 'timezone': 'Australia/Sydney', 'iata': 'SYD', 'icao': 'YSSY', 'terminal': '3', 'gate': 'T3G', 'baggage': 'QFR', 'delay': None, 'scheduled': '2024-12-09T06: 25: 00+00: 00', 'estimated': '2024-12-09T06: 25: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Fiji Airways', 'iata': 'FJ', 'icao': 'FJI'
+            }, 'flight': {'number': '5290', 'iata': 'FJ5290', 'icao': 'FJI5290', 'codeshared': {'airline_name': 'qantas', 'airline_iata': 'qf', 'airline_icao': 'qfa', 'flight_number': '843', 'flight_iata': 'qf843', 'flight_icao': 'qfa843'
+                }
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Darwin', 'timezone': 'Australia/Darwin', 'iata': 'DRW', 'icao': 'YPDN', 'terminal': None, 'gate': '5', 'delay': None, 'scheduled': '2024-12-09T00: 30: 00+00: 00', 'estimated': '2024-12-09T00: 30: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Sydney Kingsford Smith Airport', 'timezone': 'Australia/Sydney', 'iata': 'SYD', 'icao': 'YSSY', 'terminal': '3', 'gate': 'T3G', 'baggage': 'QFR', 'delay': None, 'scheduled': '2024-12-09T06: 25: 00+00: 00', 'estimated': '2024-12-09T06: 25: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Air New Zealand', 'iata': 'NZ', 'icao': 'ANZ'
+            }, 'flight': {'number': '7843', 'iata': 'NZ7843', 'icao': 'ANZ7843', 'codeshared': {'airline_name': 'qantas', 'airline_iata': 'qf', 'airline_icao': 'qfa', 'flight_number': '843', 'flight_iata': 'qf843', 'flight_icao': 'qfa843'
+                }
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Darwin', 'timezone': 'Australia/Darwin', 'iata': 'DRW', 'icao': 'YPDN', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 25: 00+00: 00', 'estimated': '2024-12-09T00: 25: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Brisbane International', 'timezone': 'Australia/Brisbane', 'iata': 'BNE', 'icao': 'YBBN', 'terminal': 'D', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T04: 45: 00+00: 00', 'estimated': '2024-12-09T04: 45: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Jetstar', 'iata': 'JQ', 'icao': 'JST'
+            }, 'flight': {'number': '673', 'iata': 'JQ673', 'icao': 'JST673', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Darwin', 'timezone': 'Australia/Darwin', 'iata': 'DRW', 'icao': 'YPDN', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 25: 00+00: 00', 'estimated': '2024-12-09T00: 25: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Brisbane International', 'timezone': 'Australia/Brisbane', 'iata': 'BNE', 'icao': 'YBBN', 'terminal': 'D', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T04: 45: 00+00: 00', 'estimated': '2024-12-09T04: 45: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Qantas', 'iata': 'QF', 'icao': 'QFA'
+            }, 'flight': {'number': '5673', 'iata': 'QF5673', 'icao': 'QFA5673', 'codeshared': {'airline_name': 'jetstar', 'airline_iata': 'jq', 'airline_icao': 'jst', 'flight_number': '673', 'flight_iata': 'jq673', 'flight_icao': 'jst673'
+                }
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Darwin', 'timezone': 'Australia/Darwin', 'iata': 'DRW', 'icao': 'YPDN', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 10: 00+00: 00', 'estimated': '2024-12-09T00: 10: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Sydney Kingsford Smith Airport', 'timezone': 'Australia/Sydney', 'iata': 'SYD', 'icao': 'YSSY', 'terminal': '2', 'gate': 'A49', 'baggage': 'D4', 'delay': None, 'scheduled': '2024-12-09T06: 10: 00+00: 00', 'estimated': '2024-12-09T06: 10: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Jetstar', 'iata': 'JQ', 'icao': 'JST'
+            }, 'flight': {'number': '671', 'iata': 'JQ671', 'icao': 'JST671', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Darwin', 'timezone': 'Australia/Darwin', 'iata': 'DRW', 'icao': 'YPDN', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 10: 00+00: 00', 'estimated': '2024-12-09T00: 10: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Sydney Kingsford Smith Airport', 'timezone': 'Australia/Sydney', 'iata': 'SYD', 'icao': 'YSSY', 'terminal': '2', 'gate': 'A49', 'baggage': 'D4', 'delay': None, 'scheduled': '2024-12-09T06: 10: 00+00: 00', 'estimated': '2024-12-09T06: 10: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Qantas', 'iata': 'QF', 'icao': 'QFA'
+            }, 'flight': {'number': '5671', 'iata': 'QF5671', 'icao': 'QFA5671', 'codeshared': {'airline_name': 'jetstar', 'airline_iata': 'jq', 'airline_icao': 'jst', 'flight_number': '671', 'flight_iata': 'jq671', 'flight_icao': 'jst671'
+                }
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Darwin', 'timezone': 'Australia/Darwin', 'iata': 'DRW', 'icao': 'YPDN', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 10: 00+00: 00', 'estimated': '2024-12-09T00: 10: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Sydney Kingsford Smith Airport', 'timezone': 'Australia/Sydney', 'iata': 'SYD', 'icao': 'YSSY', 'terminal': '2', 'gate': 'A49', 'baggage': 'D4', 'delay': None, 'scheduled': '2024-12-09T06: 10: 00+00: 00', 'estimated': '2024-12-09T06: 10: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'LATAM Airlines', 'iata': 'LA', 'icao': 'LAN'
+            }, 'flight': {'number': '5713', 'iata': 'LA5713', 'icao': 'LAN5713', 'codeshared': {'airline_name': 'jetstar', 'airline_iata': 'jq', 'airline_icao': 'jst', 'flight_number': '671', 'flight_iata': 'jq671', 'flight_icao': 'jst671'
+                }
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Melbourne - Tullamarine Airport', 'timezone': 'Australia/Melbourne', 'iata': 'MEL', 'icao': 'YMML', 'terminal': '2', 'gate': None, 'delay': None, 'scheduled': '2024-12-09T01: 25: 00+00: 00', 'estimated': '2024-12-09T01: 25: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Ninoy Aquino International', 'timezone': 'Asia/Manila', 'iata': 'MNL', 'icao': 'RPLL', 'terminal': '3', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T06: 40: 00+00: 00', 'estimated': '2024-12-09T06: 40: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Cebu Pacific Air', 'iata': '5J', 'icao': 'CEB'
+            }, 'flight': {'number': '50', 'iata': '5J50', 'icao': 'CEB50', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Kansai International', 'timezone': 'Asia/Tokyo', 'iata': 'KIX', 'icao': 'RJBB', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 01: 00+00: 00', 'estimated': '2024-12-09T00: 01: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Taiwan Taoyuan International (Chiang Kai Shek International)', 'timezone': 'Asia/Taipei', 'iata': 'TPE', 'icao': 'RCTP', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T01: 45: 00+00: 00', 'estimated': '2024-12-09T01: 45: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'EVA Air', 'iata': 'BR', 'icao': 'EVA'
+            }, 'flight': {'number': '607', 'iata': 'BR607', 'icao': 'EVA607', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Brisbane International', 'timezone': 'Australia/Brisbane', 'iata': 'BNE', 'icao': 'YBBN', 'terminal': 'I', 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 10: 00+00: 00', 'estimated': '2024-12-09T00: 10: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Hong Kong International', 'timezone': 'Asia/Hong_Kong', 'iata': 'HKG', 'icao': 'VHHH', 'terminal': '1', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T06: 50: 00+00: 00', 'estimated': '2024-12-09T06: 50: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Cathay Pacific', 'iata': 'CX', 'icao': 'CPA'
+            }, 'flight': {'number': '156', 'iata': 'CX156', 'icao': 'CPA156', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Nanning', 'timezone': 'Asia/Shanghai', 'iata': 'NNG', 'icao': 'ZGNN', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Chhatrapati Shivaji International (Sahar International)', 'timezone': 'Asia/Kolkata', 'iata': 'BOM', 'icao': 'VABB', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T02: 40: 00+00: 00', 'estimated': '2024-12-09T02: 40: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'SF Airlines', 'iata': 'O3', 'icao': 'CSS'
+            }, 'flight': {'number': '303', 'iata': 'O3303', 'icao': 'CSS303', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Guiyang', 'timezone': 'Asia/Shanghai', 'iata': 'KWE', 'icao': 'ZUGY', 'terminal': 'T2', 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 00: 00+00: 00', 'estimated': '2024-12-09T00: 00: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Fuzhou', 'timezone': 'Asia/Shanghai', 'iata': 'FOC', 'icao': 'ZSFZ', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T02: 15: 00+00: 00', 'estimated': '2024-12-09T02: 15: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': '9 Air Co', 'iata': 'AQ', 'icao': 'JYH'
+            }, 'flight': {'number': '1321', 'iata': 'AQ1321', 'icao': 'JYH1321', 'codeshared': None
+            }, 'aircraft': {'registration': 'B-1556', 'iata': 'B738', 'icao': 'B738', 'icao24': '781029'
+            }, 'live': {'updated': '2024-12-08T09: 13: 10+00: 00', 'latitude': 25.3015, 'longitude': 109.986, 'altitude': 8869.68, 'direction': 136, 'speed_horizontal': 894.516, 'speed_vertical': 0, 'is_ground': False
+            }
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Singapore Changi', 'timezone': 'Asia/Singapore', 'iata': 'SIN', 'icao': 'WSSS', 'terminal': '3', 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'El Prat De Llobregat', 'timezone': 'Europe/Madrid', 'iata': 'BCN', 'icao': 'LEBL', 'terminal': '1', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T07: 10: 00+00: 00', 'estimated': '2024-12-09T07: 10: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Singapore Airlines', 'iata': 'SQ', 'icao': 'SIA'
+            }, 'flight': {'number': '388', 'iata': 'SQ388', 'icao': 'SIA388', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Singapore Changi', 'timezone': 'Asia/Singapore', 'iata': 'SIN', 'icao': 'WSSS', 'terminal': '2', 'gate': '5', 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Zurich', 'timezone': 'Europe/Zurich', 'iata': 'ZRH', 'icao': 'LSZH', 'terminal': '2', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T06: 10: 00+00: 00', 'estimated': '2024-12-09T06: 10: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'SWISS', 'iata': 'LX', 'icao': 'SWR'
+            }, 'flight': {'number': '177', 'iata': 'LX177', 'icao': 'SWR177', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Kuala Lumpur International Airport (klia)', 'timezone': 'Asia/Kuala_Lumpur', 'iata': 'KUL', 'icao': 'WMKK', 'terminal': '2', 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Zia International', 'timezone': 'Asia/Dhaka', 'iata': 'DAC', 'icao': 'VGHS', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T02: 00: 00+00: 00', 'estimated': '2024-12-09T02: 00: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'AirAsia', 'iata': 'AK', 'icao': 'AXM'
+            }, 'flight': {'number': '79', 'iata': 'AK79', 'icao': 'AXM79', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Seoul (Incheon)', 'timezone': 'Asia/Seoul', 'iata': 'ICN', 'icao': 'RKSI', 'terminal': '1', 'gate': None, 'delay': None, 'scheduled': '2024-12-09T01: 05: 00+00: 00', 'estimated': '2024-12-09T01: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Kota-Kinabalu International Airport', 'timezone': 'Asia/Kuching', 'iata': 'BKI', 'icao': 'WBKK', 'terminal': '1', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T05: 35: 00+00: 00', 'estimated': '2024-12-09T05: 35: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'AirAsia', 'iata': 'AK', 'icao': 'AXM'
+            }, 'flight': {'number': '1624', 'iata': 'AK1624', 'icao': 'AXM1624', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Seoul (Incheon)', 'timezone': 'Asia/Seoul', 'iata': 'ICN', 'icao': 'RKSI', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 50: 00+00: 00', 'estimated': '2024-12-09T00: 50: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Shanghai Pudong International', 'timezone': 'Asia/Shanghai', 'iata': 'PVG', 'icao': 'ZSPD', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T02: 20: 00+00: 00', 'estimated': '2024-12-09T02: 20: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Atlas Air', 'iata': '5Y', 'icao': 'GTI'
+            }, 'flight': {'number': '811', 'iata': '5Y811', 'icao': 'GTI811', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Seoul (Incheon)', 'timezone': 'Asia/Seoul', 'iata': 'ICN', 'icao': 'RKSI', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 50: 00+00: 00', 'estimated': '2024-12-09T00: 50: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Shanghai Pudong International', 'timezone': 'Asia/Shanghai', 'iata': 'PVG', 'icao': 'ZSPD', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T02: 05: 00+00: 00', 'estimated': '2024-12-09T02: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Asiana Airlines', 'iata': 'OZ', 'icao': 'AAR'
+            }, 'flight': {'number': '987', 'iata': 'OZ987', 'icao': 'AAR987', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Seoul (Incheon)', 'timezone': 'Asia/Seoul', 'iata': 'ICN', 'icao': 'RKSI', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 50: 00+00: 00', 'estimated': '2024-12-09T00: 50: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Shanghai Pudong International', 'timezone': 'Asia/Shanghai', 'iata': 'PVG', 'icao': 'ZSPD', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T02: 10: 00+00: 00', 'estimated': '2024-12-09T02: 10: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Asiana Airlines', 'iata': 'OZ', 'icao': 'AAR'
+            }, 'flight': {'number': '947', 'iata': 'OZ947', 'icao': 'AAR947', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Seoul (Incheon)', 'timezone': 'Asia/Seoul', 'iata': 'ICN', 'icao': 'RKSI', 'terminal': '1', 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 30: 00+00: 00', 'estimated': '2024-12-09T00: 30: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Shanghai Pudong International', 'timezone': 'Asia/Shanghai', 'iata': 'PVG', 'icao': 'ZSPD', 'terminal': '2', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T01: 40: 00+00: 00', 'estimated': '2024-12-09T01: 40: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'EASTAR JET', 'iata': 'ZE', 'icao': 'ESR'
+            }, 'flight': {'number': '871', 'iata': 'ZE871', 'icao': 'ESR871', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Seoul (Incheon)', 'timezone': 'Asia/Seoul', 'iata': 'ICN', 'icao': 'RKSI', 'terminal': '1', 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 30: 00+00: 00', 'estimated': '2024-12-09T00: 30: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Taiwan Taoyuan International (Chiang Kai Shek International)', 'timezone': 'Asia/Taipei', 'iata': 'TPE', 'icao': 'RCTP', 'terminal': '1', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T02: 15: 00+00: 00', 'estimated': '2024-12-09T02: 15: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Tigerair Taiwan', 'iata': 'IT', 'icao': 'TTW'
+            }, 'flight': {'number': '603', 'iata': 'IT603', 'icao': 'TTW603', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Seoul (Incheon)', 'timezone': 'Asia/Seoul', 'iata': 'ICN', 'icao': 'RKSI', 'terminal': '1', 'gate': '121', 'delay': None, 'scheduled': '2024-12-09T00: 30: 00+00: 00', 'estimated': '2024-12-09T00: 30: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Bole International', 'timezone': 'Africa/Addis_Ababa', 'iata': 'ADD', 'icao': 'HAAB', 'terminal': '2', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T07: 45: 00+00: 00', 'estimated': '2024-12-09T07: 45: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Ethiopian Airlines', 'iata': 'ET', 'icao': 'ETH'
+            }, 'flight': {'number': '673', 'iata': 'ET673', 'icao': 'ETH673', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Seoul (Incheon)', 'timezone': 'Asia/Seoul', 'iata': 'ICN', 'icao': 'RKSI', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 30: 00+00: 00', 'estimated': '2024-12-09T00: 30: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Shanghai Pudong International', 'timezone': 'Asia/Shanghai', 'iata': 'PVG', 'icao': 'ZSPD', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T02: 00: 00+00: 00', 'estimated': '2024-12-09T02: 00: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Atlas Air', 'iata': '5Y', 'icao': 'GTI'
+            }, 'flight': {'number': '517', 'iata': '5Y517', 'icao': 'GTI517', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Seoul (Incheon)', 'timezone': 'Asia/Seoul', 'iata': 'ICN', 'icao': 'RKSI', 'terminal': '1', 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 20: 00+00: 00', 'estimated': '2024-12-09T00: 20: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Doha International', 'timezone': 'Asia/Qatar', 'iata': 'DOH', 'icao': 'OTHH', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T04: 55: 00+00: 00', 'estimated': '2024-12-09T04: 55: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Qatar Airways', 'iata': 'QR', 'icao': 'QTR'
+            }, 'flight': {'number': '859', 'iata': 'QR859', 'icao': 'QTR859', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Seoul (Incheon)', 'timezone': 'Asia/Seoul', 'iata': 'ICN', 'icao': 'RKSI', 'terminal': '1', 'gate': None, 'delay': 16, 'scheduled': '2024-12-09T00: 20: 00+00: 00', 'estimated': '2024-12-09T00: 20: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Abu Dhabi International', 'timezone': 'Asia/Dubai', 'iata': 'AUH', 'icao': 'OMAA', 'terminal': 'A', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T05: 50: 00+00: 00', 'estimated': '2024-12-09T05: 50: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Etihad Airways', 'iata': 'EY', 'icao': 'ETD'
+            }, 'flight': {'number': '827', 'iata': 'EY827', 'icao': 'ETD827', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Seoul (Incheon)', 'timezone': 'Asia/Seoul', 'iata': 'ICN', 'icao': 'RKSI', 'terminal': '1', 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 10: 00+00: 00', 'estimated': '2024-12-09T00: 10: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Istanbul Airport', 'timezone': 'Europe/Istanbul', 'iata': 'IST', 'icao': 'LTFM', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T06: 15: 00+00: 00', 'estimated': '2024-12-09T06: 15: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Turkish Airlines', 'iata': 'TK', 'icao': 'THY'
+            }, 'flight': {'number': '91', 'iata': 'TK91', 'icao': 'THY91', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Irkutsk', 'timezone': 'Asia/Irkutsk', 'iata': 'IKT', 'icao': 'UIII', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'New Ulaanbaator International Airport', 'timezone': None, 'iata': 'UBN', 'icao': 'ZMCK', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T01: 00: 00+00: 00', 'estimated': '2024-12-09T01: 00: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'IrAero', 'iata': 'IO', 'icao': 'IAE'
+            }, 'flight': {'number': '230', 'iata': 'IO230', 'icao': 'IAE230', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Vladivostok', 'timezone': 'Asia/Vladivostok', 'iata': 'VVO', 'icao': 'UHWW', 'terminal': 'MAIN', 'gate': '1-12', 'delay': None, 'scheduled': '2024-12-09T00: 30: 00+00: 00', 'estimated': '2024-12-09T00: 30: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Beijing Daxing International Airport', 'timezone': '+8', 'iata': 'PKX', 'icao': 'ZBAD', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T01: 20: 00+00: 00', 'estimated': '2024-12-09T01: 20: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Aurora', 'iata': 'HZ', 'icao': 'SHU'
+            }, 'flight': {'number': '5468', 'iata': 'HZ5468', 'icao': 'SHU5468', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Haneda Airport', 'timezone': 'Asia/Tokyo', 'iata': 'HND', 'icao': 'RJTT', 'terminal': '3', 'gate': '111', 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Kuala Lumpur International Airport (klia)', 'timezone': 'Asia/Kuala_Lumpur', 'iata': 'KUL', 'icao': 'WMKK', 'terminal': '1', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T06: 45: 00+00: 00', 'estimated': '2024-12-09T06: 45: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'ANA', 'iata': 'NH', 'icao': 'ANA'
+            }, 'flight': {'number': '885', 'iata': 'NH885', 'icao': 'ANA885', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Haneda Airport', 'timezone': 'Asia/Tokyo', 'iata': 'HND', 'icao': 'RJTT', 'terminal': '2', 'gate': '71', 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Soekarno-Hatta International', 'timezone': 'Asia/Jakarta', 'iata': 'CGK', 'icao': 'WIII', 'terminal': '3', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T06: 00: 00+00: 00', 'estimated': '2024-12-09T06: 00: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'ANA', 'iata': 'NH', 'icao': 'ANA'
+            }, 'flight': {'number': '871', 'iata': 'NH871', 'icao': 'ANA871', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Haneda Airport', 'timezone': 'Asia/Tokyo', 'iata': 'HND', 'icao': 'RJTT', 'terminal': '2', 'gate': '67A', 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Suvarnabhumi International', 'timezone': 'Asia/Bangkok', 'iata': 'BKK', 'icao': 'VTBS', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T05: 10: 00+00: 00', 'estimated': '2024-12-09T05: 10: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'ANA', 'iata': 'NH', 'icao': 'ANA'
+            }, 'flight': {'number': '849', 'iata': 'NH849', 'icao': 'ANA849', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Haneda Airport', 'timezone': 'Asia/Tokyo', 'iata': 'HND', 'icao': 'RJTT', 'terminal': '3', 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Dubai', 'timezone': 'Asia/Dubai', 'iata': 'DXB', 'icao': 'OMDB', 'terminal': '3', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T06: 55: 00+00: 00', 'estimated': '2024-12-09T06: 55: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Emirates', 'iata': 'EK', 'icao': 'UAE'
+            }, 'flight': {'number': '313', 'iata': 'EK313', 'icao': 'UAE313', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Chita', 'timezone': 'Asia/Yakutsk', 'iata': 'HTA', 'icao': 'UIAA', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 45: 00+00: 00', 'estimated': '2024-12-09T00: 45: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Vladivostok', 'timezone': 'Asia/Vladivostok', 'iata': 'VVO', 'icao': 'UHWW', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T05: 15: 00+00: 00', 'estimated': '2024-12-09T05: 15: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Aurora', 'iata': 'HZ', 'icao': 'SHU'
+            }, 'flight': {'number': '4743', 'iata': 'HZ4743', 'icao': 'SHU4743', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Chita', 'timezone': 'Asia/Yakutsk', 'iata': 'HTA', 'icao': 'UIAA', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 45: 00+00: 00', 'estimated': '2024-12-09T00: 45: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Vladivostok', 'timezone': 'Asia/Vladivostok', 'iata': 'VVO', 'icao': 'UHWW', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T05: 15: 00+00: 00', 'estimated': '2024-12-09T05: 15: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Aeroflot', 'iata': 'SU', 'icao': 'AFL'
+            }, 'flight': {'number': '3625', 'iata': 'SU3625', 'icao': 'AFL3625', 'codeshared': {'airline_name': 'aurora', 'airline_iata': 'hz', 'airline_icao': 'shu', 'flight_number': '4743', 'flight_iata': 'hz4743', 'flight_icao': 'shu4743'
+                }
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Guangzhou Baiyun International', 'timezone': 'Asia/Shanghai', 'iata': 'CAN', 'icao': 'ZGGG', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Shanghai Pudong International', 'timezone': 'Asia/Shanghai', 'iata': 'PVG', 'icao': 'ZSPD', 'terminal': '2', 'gate': None, 'baggage': '43', 'delay': None, 'scheduled': '2024-12-09T02: 20: 00+00: 00', 'estimated': '2024-12-09T02: 20: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': '9 Air Co', 'iata': 'AQ', 'icao': 'JYH'
+            }, 'flight': {'number': '1011', 'iata': 'AQ1011', 'icao': 'JYH1011', 'codeshared': None
+            }, 'aircraft': {'registration': 'B-208K', 'iata': 'B738', 'icao': 'B738', 'icao24': '7815E2'
+            }, 'live': {'updated': '2024-12-08T09: 13: 12+00: 00', 'latitude': 27.599, 'longitude': 120.296, 'altitude': 8107.68, 'direction': 62, 'speed_horizontal': 911.184, 'speed_vertical': 0, 'is_ground': False
+            }
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Guangzhou Baiyun International', 'timezone': 'Asia/Shanghai', 'iata': 'CAN', 'icao': 'ZGGG', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Samratulangi', 'timezone': 'Asia/Makassar', 'iata': 'MDC', 'icao': 'WAMM', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T04: 15: 00+00: 00', 'estimated': '2024-12-09T04: 15: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'TransNusa', 'iata': '8B', 'icao': 'TNU'
+            }, 'flight': {'number': '168', 'iata': '8B168', 'icao': 'TNU168', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Guangzhou Baiyun International', 'timezone': 'Asia/Shanghai', 'iata': 'CAN', 'icao': 'ZGGG', 'terminal': '1', 'gate': 'K22-', 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Suvarnabhumi International', 'timezone': 'Asia/Bangkok', 'iata': 'BKK', 'icao': 'VTBS', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T02: 05: 00+00: 00', 'estimated': '2024-12-09T02: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'China Eastern Airlines', 'iata': 'MU', 'icao': 'CES'
+            }, 'flight': {'number': '251', 'iata': 'MU251', 'icao': 'CES251', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Guangzhou Baiyun International', 'timezone': 'Asia/Shanghai', 'iata': 'CAN', 'icao': 'ZGGG', 'terminal': '1', 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Don Muang', 'timezone': 'Asia/Bangkok', 'iata': 'DMK', 'icao': 'VTBD', 'terminal': 'T1', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T02: 10: 00+00: 00', 'estimated': '2024-12-09T02: 10: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Thai AirAsia', 'iata': 'FD', 'icao': 'AIQ'
+            }, 'flight': {'number': '533', 'iata': 'FD533', 'icao': 'AIQ533', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Wuxi', 'timezone': 'Asia/Shanghai', 'iata': 'WUX', 'icao': 'ZSWX', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Beijing Capital International', 'timezone': 'Asia/Shanghai', 'iata': 'PEK', 'icao': 'ZBAA', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T02: 10: 00+00: 00', 'estimated': '2024-12-09T02: 10: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'SF Airlines', 'iata': 'O3', 'icao': 'CSS'
+            }, 'flight': {'number': '7108', 'iata': 'O37108', 'icao': 'CSS7108', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Wuxi', 'timezone': 'Asia/Shanghai', 'iata': 'WUX', 'icao': 'ZSWX', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Jinjiang', 'timezone': 'Asia/Shanghai', 'iata': 'JJN', 'icao': 'ZSQZ', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T01: 15: 00+00: 00', 'estimated': '2024-12-09T01: 15: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'SF Airlines', 'iata': 'O3', 'icao': 'CSS'
+            }, 'flight': {'number': '7347', 'iata': 'O37347', 'icao': 'CSS7347', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-09', 'flight_status': 'scheduled', 'departure': {'airport': 'Xianyang', 'timezone': 'Asia/Shanghai', 'iata': 'XIY', 'icao': 'ZLXY', 'terminal': None, 'gate': None, 'delay': None, 'scheduled': '2024-12-09T00: 05: 00+00: 00', 'estimated': '2024-12-09T00: 05: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'arrival': {'airport': 'Nanjing Lukou International Airport', 'timezone': 'Asia/Shanghai', 'iata': 'NKG', 'icao': 'ZSNJ', 'terminal': None, 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-09T02: 00: 00+00: 00', 'estimated': '2024-12-09T02: 00: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'China Postal Airlines', 'iata': 'CF', 'icao': 'CYZ'
+            }, 'flight': {'number': '9033', 'iata': 'CF9033', 'icao': 'CYZ9033', 'codeshared': None
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-08', 'flight_status': 'landed', 'departure': {'airport': 'Fuzhou', 'timezone': 'Asia/Shanghai', 'iata': 'FOC', 'icao': 'ZSFZ', 'terminal': None, 'gate': '109', 'delay': 9, 'scheduled': '2024-12-08T09: 50: 00+00: 00', 'estimated': '2024-12-08T09: 50: 00+00: 00', 'actual': '2024-12-08T09: 58: 00+00: 00', 'estimated_runway': '2024-12-08T09: 58: 00+00: 00', 'actual_runway': '2024-12-08T09: 58: 00+00: 00'
+            }, 'arrival': {'airport': 'Shenzhen', 'timezone': 'Asia/Shanghai', 'iata': 'SZX', 'icao': 'ZGSZ', 'terminal': 'T3', 'gate': None, 'baggage': '5', 'delay': None, 'scheduled': '2024-12-08T11: 45: 00+00: 00', 'estimated': '2024-12-08T11: 45: 00+00: 00', 'actual': '2024-12-08T11: 16: 00+00: 00', 'estimated_runway': '2024-12-08T11: 16: 00+00: 00', 'actual_runway': '2024-12-08T11: 16: 00+00: 00'
+            }, 'airline': {'name': 'Sichuan Airlines', 'iata': '3U', 'icao': 'CSC'
+            }, 'flight': {'number': '2585', 'iata': '3U2585', 'icao': 'CSC2585', 'codeshared': {'airline_name': 'xiamen airlines', 'airline_iata': 'mf', 'airline_icao': 'cxa', 'flight_number': '8965', 'flight_iata': 'mf8965', 'flight_icao': 'cxa8965'
+                }
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-08', 'flight_status': 'landed', 'departure': {'airport': 'Fuzhou', 'timezone': 'Asia/Shanghai', 'iata': 'FOC', 'icao': 'ZSFZ', 'terminal': None, 'gate': '109', 'delay': 9, 'scheduled': '2024-12-08T09: 50: 00+00: 00', 'estimated': '2024-12-08T09: 50: 00+00: 00', 'actual': '2024-12-08T09: 58: 00+00: 00', 'estimated_runway': '2024-12-08T09: 58: 00+00: 00', 'actual_runway': '2024-12-08T09: 58: 00+00: 00'
+            }, 'arrival': {'airport': 'Shenzhen', 'timezone': 'Asia/Shanghai', 'iata': 'SZX', 'icao': 'ZGSZ', 'terminal': 'T3', 'gate': None, 'baggage': '5', 'delay': None, 'scheduled': '2024-12-08T11: 45: 00+00: 00', 'estimated': '2024-12-08T11: 45: 00+00: 00', 'actual': '2024-12-08T11: 16: 00+00: 00', 'estimated_runway': '2024-12-08T11: 16: 00+00: 00', 'actual_runway': '2024-12-08T11: 16: 00+00: 00'
+            }, 'airline': {'name': 'China Southern Airlines', 'iata': 'CZ', 'icao': 'CSN'
+            }, 'flight': {'number': '4584', 'iata': 'CZ4584', 'icao': 'CSN4584', 'codeshared': {'airline_name': 'xiamen airlines', 'airline_iata': 'mf', 'airline_icao': 'cxa', 'flight_number': '8965', 'flight_iata': 'mf8965', 'flight_icao': 'cxa8965'
+                }
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-08', 'flight_status': 'landed', 'departure': {'airport': 'Fuzhou', 'timezone': 'Asia/Shanghai', 'iata': 'FOC', 'icao': 'ZSFZ', 'terminal': None, 'gate': '109', 'delay': 9, 'scheduled': '2024-12-08T09: 50: 00+00: 00', 'estimated': '2024-12-08T09: 50: 00+00: 00', 'actual': '2024-12-08T09: 58: 00+00: 00', 'estimated_runway': '2024-12-08T09: 58: 00+00: 00', 'actual_runway': '2024-12-08T09: 58: 00+00: 00'
+            }, 'arrival': {'airport': 'Shenzhen', 'timezone': 'Asia/Shanghai', 'iata': 'SZX', 'icao': 'ZGSZ', 'terminal': 'T3', 'gate': None, 'baggage': '5', 'delay': None, 'scheduled': '2024-12-08T11: 45: 00+00: 00', 'estimated': '2024-12-08T11: 45: 00+00: 00', 'actual': '2024-12-08T11: 16: 00+00: 00', 'estimated_runway': '2024-12-08T11: 16: 00+00: 00', 'actual_runway': '2024-12-08T11: 16: 00+00: 00'
+            }, 'airline': {'name': 'China Express Air', 'iata': 'G5', 'icao': 'HXA'
+            }, 'flight': {'number': '9737', 'iata': 'G59737', 'icao': 'HXA9737', 'codeshared': {'airline_name': 'xiamen airlines', 'airline_iata': 'mf', 'airline_icao': 'cxa', 'flight_number': '8965', 'flight_iata': 'mf8965', 'flight_icao': 'cxa8965'
+                }
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-08', 'flight_status': 'landed', 'departure': {'airport': 'Fuzhou', 'timezone': 'Asia/Shanghai', 'iata': 'FOC', 'icao': 'ZSFZ', 'terminal': None, 'gate': '109', 'delay': 9, 'scheduled': '2024-12-08T09: 50: 00+00: 00', 'estimated': '2024-12-08T09: 50: 00+00: 00', 'actual': '2024-12-08T09: 58: 00+00: 00', 'estimated_runway': '2024-12-08T09: 58: 00+00: 00', 'actual_runway': '2024-12-08T09: 58: 00+00: 00'
+            }, 'arrival': {'airport': 'Shenzhen', 'timezone': 'Asia/Shanghai', 'iata': 'SZX', 'icao': 'ZGSZ', 'terminal': 'T3', 'gate': None, 'baggage': '5', 'delay': None, 'scheduled': '2024-12-08T11: 45: 00+00: 00', 'estimated': '2024-12-08T11: 45: 00+00: 00', 'actual': '2024-12-08T11: 16: 00+00: 00', 'estimated_runway': '2024-12-08T11: 16: 00+00: 00', 'actual_runway': '2024-12-08T11: 16: 00+00: 00'
+            }, 'airline': {'name': 'Loong Air', 'iata': 'GJ', 'icao': 'CDC'
+            }, 'flight': {'number': '5417', 'iata': 'GJ5417', 'icao': 'CDC5417', 'codeshared': {'airline_name': 'xiamen airlines', 'airline_iata': 'mf', 'airline_icao': 'cxa', 'flight_number': '8965', 'flight_iata': 'mf8965', 'flight_icao': 'cxa8965'
+                }
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-08', 'flight_status': 'landed', 'departure': {'airport': 'Fuzhou', 'timezone': 'Asia/Shanghai', 'iata': 'FOC', 'icao': 'ZSFZ', 'terminal': None, 'gate': '109', 'delay': 9, 'scheduled': '2024-12-08T09: 50: 00+00: 00', 'estimated': '2024-12-08T09: 50: 00+00: 00', 'actual': '2024-12-08T09: 58: 00+00: 00', 'estimated_runway': '2024-12-08T09: 58: 00+00: 00', 'actual_runway': '2024-12-08T09: 58: 00+00: 00'
+            }, 'arrival': {'airport': 'Shenzhen', 'timezone': 'Asia/Shanghai', 'iata': 'SZX', 'icao': 'ZGSZ', 'terminal': 'T3', 'gate': None, 'baggage': '5', 'delay': None, 'scheduled': '2024-12-08T11: 45: 00+00: 00', 'estimated': '2024-12-08T11: 45: 00+00: 00', 'actual': '2024-12-08T11: 16: 00+00: 00', 'estimated_runway': '2024-12-08T11: 16: 00+00: 00', 'actual_runway': '2024-12-08T11: 16: 00+00: 00'
+            }, 'airline': {'name': 'Juneyao Airlines', 'iata': 'HO', 'icao': 'DKH'
+            }, 'flight': {'number': '7348', 'iata': 'HO7348', 'icao': 'DKH7348', 'codeshared': {'airline_name': 'xiamen airlines', 'airline_iata': 'mf', 'airline_icao': 'cxa', 'flight_number': '8965', 'flight_iata': 'mf8965', 'flight_icao': 'cxa8965'
+                }
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-08', 'flight_status': 'landed', 'departure': {'airport': 'Fuzhou', 'timezone': 'Asia/Shanghai', 'iata': 'FOC', 'icao': 'ZSFZ', 'terminal': None, 'gate': '109', 'delay': 9, 'scheduled': '2024-12-08T09: 50: 00+00: 00', 'estimated': '2024-12-08T09: 50: 00+00: 00', 'actual': '2024-12-08T09: 58: 00+00: 00', 'estimated_runway': '2024-12-08T09: 58: 00+00: 00', 'actual_runway': '2024-12-08T09: 58: 00+00: 00'
+            }, 'arrival': {'airport': 'Shenzhen', 'timezone': 'Asia/Shanghai', 'iata': 'SZX', 'icao': 'ZGSZ', 'terminal': 'T3', 'gate': None, 'baggage': '5', 'delay': None, 'scheduled': '2024-12-08T11: 45: 00+00: 00', 'estimated': '2024-12-08T11: 45: 00+00: 00', 'actual': '2024-12-08T11: 16: 00+00: 00', 'estimated_runway': '2024-12-08T11: 16: 00+00: 00', 'actual_runway': '2024-12-08T11: 16: 00+00: 00'
+            }, 'airline': {'name': 'China Eastern Airlines', 'iata': 'MU', 'icao': 'CES'
+            }, 'flight': {'number': '4898', 'iata': 'MU4898', 'icao': 'CES4898', 'codeshared': {'airline_name': 'xiamen airlines', 'airline_iata': 'mf', 'airline_icao': 'cxa', 'flight_number': '8965', 'flight_iata': 'mf8965', 'flight_icao': 'cxa8965'
+                }
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-08', 'flight_status': 'landed', 'departure': {'airport': 'Fuzhou', 'timezone': 'Asia/Shanghai', 'iata': 'FOC', 'icao': 'ZSFZ', 'terminal': None, 'gate': '109', 'delay': 9, 'scheduled': '2024-12-08T09: 50: 00+00: 00', 'estimated': '2024-12-08T09: 50: 00+00: 00', 'actual': '2024-12-08T09: 58: 00+00: 00', 'estimated_runway': '2024-12-08T09: 58: 00+00: 00', 'actual_runway': '2024-12-08T09: 58: 00+00: 00'
+            }, 'arrival': {'airport': 'Shenzhen', 'timezone': 'Asia/Shanghai', 'iata': 'SZX', 'icao': 'ZGSZ', 'terminal': 'T3', 'gate': None, 'baggage': '5', 'delay': None, 'scheduled': '2024-12-08T11: 45: 00+00: 00', 'estimated': '2024-12-08T11: 45: 00+00: 00', 'actual': '2024-12-08T11: 16: 00+00: 00', 'estimated_runway': '2024-12-08T11: 16: 00+00: 00', 'actual_runway': '2024-12-08T11: 16: 00+00: 00'
+            }, 'airline': {'name': 'Hebei Airlines', 'iata': 'NS', 'icao': 'HBH'
+            }, 'flight': {'number': '8965', 'iata': 'NS8965', 'icao': 'HBH8965', 'codeshared': {'airline_name': 'xiamen airlines', 'airline_iata': 'mf', 'airline_icao': 'cxa', 'flight_number': '8965', 'flight_iata': 'mf8965', 'flight_icao': 'cxa8965'
+                }
+            }, 'aircraft': None, 'live': None
+        },
+        {'flight_date': '2024-12-08', 'flight_status': 'active', 'departure': {'airport': 'Chhatrapati Shivaji International (Sahar International)', 'timezone': 'Asia/Kolkata', 'iata': 'BOM', 'icao': 'VABB', 'terminal': '1', 'gate': None, 'delay': 14, 'scheduled': '2024-12-08T13: 15: 00+00: 00', 'estimated': '2024-12-08T13: 15: 00+00: 00', 'actual': '2024-12-08T13: 29: 00+00: 00', 'estimated_runway': '2024-12-08T13: 29: 00+00: 00', 'actual_runway': '2024-12-08T13: 29: 00+00: 00'
+            }, 'arrival': {'airport': 'Bamrauli', 'timezone': 'Asia/Kolkata', 'iata': 'IXD', 'icao': 'VEAB', 'terminal': 'T3', 'gate': None, 'baggage': None, 'delay': None, 'scheduled': '2024-12-08T15: 25: 00+00: 00', 'estimated': '2024-12-08T15: 25: 00+00: 00', 'actual': None, 'estimated_runway': None, 'actual_runway': None
+            }, 'airline': {'name': 'Akasa Air', 'iata': 'QP', 'icao': 'AKJ'
+            }, 'flight': {'number': '1546', 'iata': 'QP1546', 'icao': 'AKJ1546', 'codeshared': None
+            }, 'aircraft': {'registration': 'VT-YAM', 'iata': 'B38M', 'icao': 'B38M', 'icao24': '801548'
+            }, 'live': {'updated': '2024-12-08T09: 13: 11+00: 00', 'latitude': 24.6751, 'longitude': 80.6623, 'altitude': 7170.42, 'direction': 56, 'speed_horizontal': 803.768, 'speed_vertical': 0, 'is_ground': False
+            }
+        }
+    ]
+}
